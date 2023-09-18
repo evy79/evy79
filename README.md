@@ -1,11 +1,11 @@
-hayy sou evelyn vitoria, to começando agora!
-
+ <strong> hayy sou evelyn vitoria, to começando agora como programadora! </strong>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!--
 **evy79/evy79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 faço parte 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
