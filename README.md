@@ -1,16 +1,13 @@
- <strong> hayy sou evelyn vitoria, to começando agora como programadora! </strong>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=35&center=true&vCenter=true&width=1000&lines=hayy!,+sou+evelyn+vitoria;tenho+16+years;sou+de+recife;estou+começando+agora+como+programadora;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+ 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<!--
-**evy79/evy79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 faço parte 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭
+- 🌱
+- 👯 
+- 🤔 
+- 💬 
+- 📫 
+- 😄 
+- ⚡
