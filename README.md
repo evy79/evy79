@@ -5,10 +5,5 @@
 
 - 🔭faço parte do IOS ( instituto de oportunidade social )
 - ⚡desenvolvimento web
-- 🌱
-- 👯 
-- 🤔 
-- 💬 
-- 📫 
-- 😄 
+- 🌱 de pouquinho e pouquinho chego lá 
 
